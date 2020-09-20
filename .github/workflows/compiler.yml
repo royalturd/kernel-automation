@@ -16,9 +16,9 @@ on:
     
 
 env:
-  KERNEL_SOURCE: https://github.com/shivamjadon/Drona_Kernel_Rosy.git
-  BRANCH: q-caf
-  DEFCONFIG: drona-rosy_defconfig
+  KERNEL_SOURCE: https://github.com/royalturd/Mia_kernel_project.git
+  BRANCH: q-318-caf
+  DEFCONFIG: rosy-perf_defconfig
   TZ: Asia/Kolkata
   MIR: bit
   TOOLCHAIN: https://github.com/mscalindt/aarch64-linux-android-4.9.git
